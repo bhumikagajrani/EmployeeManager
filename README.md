@@ -19,5 +19,8 @@ Frontend:
 Angular | TypeScript | HTML | CSS | JavaScript
 
 Backend:
-Java | Spring Boot | MySQL
+Java | Spring Boot
+
+Database:
+MySQL
 
